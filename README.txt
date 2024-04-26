@@ -3,9 +3,8 @@
 global performance.
 sssss
 fffff
-<<<<<<< HEAD
 eeeee
-=======
 qqqqq
->>>>>>> fenzhi1
+rrrrr
+mmmmm
 iiiii
